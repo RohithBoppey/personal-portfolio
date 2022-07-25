@@ -1,6 +1,8 @@
 import React from "react";
 import CryptoExample from "../assets/crypto-example.png";
 import EcohubExample from "../assets/ecohub-example.png";
+import LeetcodeExample from "../assets/leetcode-tracker.png";
+import SimpleGPACalculator from "../assets/gpa-calculator.png";
 
 import "./Work.css";
 
@@ -19,10 +21,16 @@ const ownProjects = [
 	},
 	{
 		name: "Leetcode Tracker (Extension)",
-		img_link: CryptoExample,
+		img_link: LeetcodeExample,
 		git_link: "https://github.com/RohithBoppey/leetcode-tracker",
 		display_link: "https://leetcode-tracker-personal.herokuapp.com",
 	},
+	{
+		name: "Simple GPA Calculator",
+		img_link: SimpleGPACalculator,
+		git_link: "https://github.com/RohithBoppey/simple-gpa-calculator",
+		display_link: "https://simple-gpa-calculator.netlify.app",
+	}
 ];
 
 const allProjects = ownProjects.map((project) => {
