@@ -3,6 +3,7 @@ import CryptoExample from "../assets/crypto-example.png";
 import EcohubExample from "../assets/ecohub-example.png";
 import LeetcodeExample from "../assets/leetcode-tracker.png";
 import SimpleGPACalculator from "../assets/gpa-calculator.png";
+import VehicleManagementExample from '../assets/Vehicle Management Example.png';
 
 import "./Work.css";
 
@@ -30,6 +31,12 @@ const ownProjects = [
 		img_link: SimpleGPACalculator,
 		git_link: "https://github.com/RohithBoppey/simple-gpa-calculator",
 		display_link: "https://simple-gpa-calculator.netlify.app",
+	},
+	{
+		name: "Command Line Vehicle Management System",
+		img_link: VehicleManagementExample,
+		git_link: "https://github.com/RohithBoppey/vehicle-management-oops-java",
+		display_link: "https://github.com/RohithBoppey/vehicle-management-oops-java",
 	}
 ];
 
