@@ -40,6 +40,7 @@ const ownProjects = [
 	}
 ];
 
+
 const allProjects = ownProjects.map((project) => {
 	return (
 		<div class="flex justify-center">
