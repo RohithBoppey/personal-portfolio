@@ -4,6 +4,7 @@ import EcohubExample from "../assets/ecohub-example.png";
 import LeetcodeExample from "../assets/leetcode-tracker.png";
 import SimpleGPACalculator from "../assets/gpa-calculator.png";
 import VehicleManagementExample from '../assets/Vehicle Management Example.png';
+import MapsExample from '../assets/maps.png';
 
 import "./Work.css";
 
@@ -37,6 +38,12 @@ const ownProjects = [
 		img_link: VehicleManagementExample,
 		git_link: "https://github.com/RohithBoppey/vehicle-management-oops-java",
 		display_link: "https://github.com/RohithBoppey/vehicle-management-oops-java",
+	},
+	{
+		name: "Simple ReactJS Map",
+		img_link: MapsExample,
+		git_link: "https://github.com/RohithBoppey/maps-demo",
+		display_link: "https://simple-react-maps-project.netlify.app",
 	}
 ];
 
