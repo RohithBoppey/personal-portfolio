@@ -5,6 +5,7 @@ import LeetcodeExample from "../assets/leetcode-tracker.png";
 import SimpleGPACalculator from "../assets/gpa-calculator.png";
 import VehicleManagementExample from '../assets/Vehicle Management Example.png';
 import MapsExample from '../assets/maps.png';
+import SIHWork from '../assets/SIH photo.png';
 
 import "./Work.css";
 
@@ -20,6 +21,12 @@ const ownProjects = [
 		img_link: EcohubExample,
 		git_link: "https://github.com/RohithBoppey/ECOHUB/",
 		display_link: "https://ecohub69.herokuapp.com",
+	},
+	{
+		name: "Smart India Hackathon Project",
+		img_link: SIHWork,
+		git_link: "https://github.com/RohithBoppey/smart-india-hackathon-project",
+		display_link: "https://github.com/RohithBoppey/smart-india-hackathon-project",
 	},
 	{
 		name: "Leetcode Tracker (Extension)",
